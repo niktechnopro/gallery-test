@@ -1,3 +1,3 @@
 # gallery-test
-# the goal was to practice with jQuery
-# The creator of this project is Rachel Poulos @rfpoulos
+# the goal of this project was to practice using jQuery
+# Rachel Poulos @rfpoulos is the creator of original project in JS 
