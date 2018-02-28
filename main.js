@@ -122,7 +122,7 @@ var galleryRightImages = function(pictureIndex) {
 };
 //end of right gallery
 
-// // here is some changed code
+// setting up initial gallery
 for (var i = 0; i < images.length; i++) {
   var pic = createPic(i);
   $gallery.append(pic);
